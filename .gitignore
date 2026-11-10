@@ -1,0 +1,12 @@
+# Generated ARM templates
+infrastructure/*.json
+monitoring/*.json
+
+# Azure CLI local files
+.azure/
+
+# Local environment and secrets
+.env
+.env.*
+*.pem
+*.key
